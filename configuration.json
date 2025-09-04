@@ -1,0 +1,454 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-09-13T16:19:29.754Z",
+  "navLinks": [
+    {
+      "label": "Work",
+      "href": "#work"
+    },
+    {
+      "label": "About",
+      "href": "#about"
+    },
+    {
+      "label": "Services",
+      "href": "#services"
+    },
+    {
+      "label": "Contact",
+      "href": "#contact"
+    }
+  ],
+  "widgets": [
+    {
+      "id": "widget-1789293385209",
+      "type": "contact",
+      "position": {
+        "x": 749,
+        "y": 3307.6670837402344
+      },
+      "size": {
+        "width": "587px",
+        "height": "553px"
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789293471545",
+      "type": "payment_qr",
+      "position": {
+        "x": 966,
+        "y": 1440
+      },
+      "size": {
+        "width": "404px",
+        "height": "368px"
+      },
+      "rotation": 8,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789293492585",
+      "type": "github",
+      "position": {
+        "x": 588,
+        "y": 2384.333709716797
+      },
+      "size": {
+        "width": "864px",
+        "height": "378px"
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789315236996",
+      "type": "auto_profile",
+      "position": {
+        "x": 193,
+        "y": 244.99998474121094
+      },
+      "size": {
+        "width": "461px",
+        "height": "304px"
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "footerCaption": "",
+        "profileUrl": "https://github.com/octocat",
+        "displayName": "octocat",
+        "bio": "Official GitHub creator profile.",
+        "bgColor": "#0a0a0f",
+        "bgOpacity": 85,
+        "borderColor": "#0affe4",
+        "borderWidth": 1,
+        "borderStyle": "solid",
+        "hoverAnimation": "none"
+      }
+    },
+    {
+      "id": "widget-1789315346907",
+      "type": "top_posts",
+      "position": {
+        "x": 1069,
+        "y": 196
+      },
+      "size": {
+        "width": "423px",
+        "height": "260px"
+      },
+      "rotation": 6,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "footerCaption": "",
+        "platform": "GitHub",
+        "username": "octocat"
+      }
+    },
+    {
+      "id": "widget-1789315386115",
+      "type": "text",
+      "position": {
+        "x": 188,
+        "y": 612
+      },
+      "size": {
+        "width": "462px",
+        "height": "178px"
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "cyber_cut",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        },
+        "footerCaption": ""
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789315471986",
+      "type": "link",
+      "position": {
+        "x": 682,
+        "y": 162
+      },
+      "size": {
+        "width": "343px",
+        "height": "166px"
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789315488970",
+      "type": "custom_request",
+      "position": {
+        "x": 689,
+        "y": 729
+      },
+      "size": {
+        "width": 460,
+        "height": 480
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789315508858",
+      "type": "github",
+      "position": {
+        "x": 341,
+        "y": 1220
+      },
+      "size": {
+        "width": 460,
+        "height": 480
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    },
+    {
+      "id": "widget-1789315518634",
+      "type": "github",
+      "position": {
+        "x": 220,
+        "y": 1720
+      },
+      "size": {
+        "width": 460,
+        "height": 480
+      },
+      "rotation": 0,
+      "isUnboxed": false,
+      "styleProps": {
+        "animation": "none",
+        "font": "Space Grotesk",
+        "shape": "rectangle",
+        "bgMode": "translucent",
+        "border": {
+          "style": "solid",
+          "width": 1,
+          "color": "rgba(255,255,255,0.15)",
+          "radius": 10,
+          "glowColor": "#0affe4",
+          "glowIntensity": 0
+        },
+        "color": {
+          "textColor": "#ffffff",
+          "bgColor": "rgba(12,12,12,0.85)",
+          "accentColor": "#0affe4"
+        }
+      },
+      "contentProps": {}
+    }
+  ],
+  "widgetOverrides": {
+    "hero-widget": {
+      "eyebrow": "RAYZHUB COLLECTION — 2025",
+      "title": "RAYZ HUB",
+      "subtitle": "Welcome to the RayzHub ecosystem. A carefully curated, highly-optimized environment designed for absolute performance and premium aesthetics.",
+      "font": "Montserrat",
+      "subFont": "Space Grotesk",
+      "titleColor": "#ffffff",
+      "accentColor": "#0affe4",
+      "animation": "none"
+    },
+    "services-widget": {
+      "label": "◉ Services",
+      "title": "What We Create",
+      "font": "Playfair Display",
+      "cards": [
+        {
+          "num": "I",
+          "title": "⬡ UI / UX Design",
+          "desc": "Interfaces that feel inevitable. Products people don't want to put down."
+        },
+        {
+          "num": "II",
+          "title": "◈ Art Direction",
+          "desc": "A single visual voice across every touchpoint of your brand."
+        },
+        {
+          "num": "III",
+          "title": "◎ Development",
+          "desc": "Production-grade code. Lightning fast. Pixel perfect. Always."
+        }
+      ]
+    },
+    "work-widget": {
+      "label": "◈ Selected Work",
+      "title": "Projects That Move the World",
+      "font": "Playfair Display",
+      "cards": [
+        {
+          "num": "01",
+          "icon": "◈",
+          "title": "Brand Identity",
+          "desc": "Complete visual systems built from the ground up. Every pixel with intent."
+        },
+        {
+          "num": "02",
+          "icon": "⬡",
+          "title": "Motion Design",
+          "desc": "Optimized digital motion that tells stories no static image ever could."
+        },
+        {
+          "num": "03",
+          "icon": "◎",
+          "title": "Digital Experiences",
+          "desc": "Immersive web experiences at the intersection of art and technology."
+        },
+        {
+          "num": "04",
+          "icon": "◉",
+          "title": "Editorial Design",
+          "desc": "Typography-first layouts where every character earns its place."
+        }
+      ]
+    },
+    "about-widget": {
+      "label": "◫ About",
+      "title": "We Don't Follow Trends",
+      "content": "RayzHub is a design-first studio obsessed with the intersection of art, motion, and technology. We build work that refuses to be ordinary.",
+      "font": "Playfair Display"
+    },
+    "contact-widget": {
+      "label": "◎ Contact",
+      "title": "Let's Build Something",
+      "buttonText": "◈ Get In Touch"
+    }
+  }
+}

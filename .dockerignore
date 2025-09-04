@@ -1,0 +1,11 @@
+node_modules
+.next
+mmeui/node_modules
+mmeui/.next
+__pycache__
+*.pyc
+*.pyo
+*.db
+.git
+.env*
+uploads/*
